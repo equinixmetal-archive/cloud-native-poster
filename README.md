@@ -4,4 +4,4 @@ Please check out the details and let us know what we're missing (or what doesn't
 
 [Download the full size poster as a PDF.](https://baremet.al/2H9xQ31)
 
-![Space poster smaller](https://github.com/packethost/cloud-native-poster/blob/master/Packet_SpacePoster_smaller.jpg)
+![Space poster smaller](https://cdn2.hubspot.net/hubfs/3266221/Packet_SpacePoster_smaller.jpg)
